@@ -1,0 +1,7 @@
+path: D:/IIIT-H internship
+
+train: train
+val: valid
+
+nc: 3
+names: ['lion', 'elephant', 'zebra']
