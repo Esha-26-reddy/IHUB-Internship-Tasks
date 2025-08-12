@@ -1,0 +1,12 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 13
+names: ['Calculator', 'Stationary holder', 'book', 'chocolate', 'diary', 'holder', 'label', 'notebook', 'paper weight', 'pen', 'scribbiling pag', 'stapler', 'telephone book']
+
+roboflow:
+  workspace: esha-rytaz
+  project: yolo-0iujp
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/esha-rytaz/yolo-0iujp/dataset/1
